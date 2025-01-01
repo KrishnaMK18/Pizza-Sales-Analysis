@@ -1,4 +1,10 @@
-# Pizza-Sales-Analysis
+# Pizza Sales Analysis
 
-HI, MY NAME IS KRISHNA
-I used SQL to analyze pizza sales data and answer key business questions. The analysis focused on identifying trends, such as top-selling pizzas, peak order times, and revenue contributions, providing actionable insights for operational optimization.
+SQL-based analysis system for tracking and analyzing pizza orders, sales metrics, and business performance.
+
+## Database Schema
+- Entity-Relationship diagram included showing tables:
+  - order_details
+  - pizza_types 
+  - pizzas
+  - orders
